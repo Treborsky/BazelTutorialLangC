@@ -4,6 +4,6 @@
 
 void print_greet()
 {
-	printf("Hello Greet!\n");
+	printf("Hello Greet!\n\t Byq normalnie \n");
 }
 
