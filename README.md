@@ -6,3 +6,7 @@
 - [x] follow the cpp tutorial, but write C code
 - [x] build all stages successfully
 - [x] add gitignore entry for bazel generated files (too much stuff in the repo)
+
+# Clone the repo
+```git clone git@github.com:Treborsky/BazelTutorialLangC.git
+```
